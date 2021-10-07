@@ -204,7 +204,7 @@ import (
 
 	"github.com/golang/protobuf/jsonpb"
 	"github.com/golang/protobuf/proto"
-	_ "github.com/google/safebrowsing/cmd/sbserver/statik"
+	_ "github.com/google/safebrowsing/cmd/rabimba/statik"
 	"github.com/rakyll/statik/fs"
 )
 
