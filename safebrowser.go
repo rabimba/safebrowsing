@@ -80,7 +80,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	pb "github.com/google/safebrowsing/internal/safebrowsing_proto"
+	pb "github.com/rabimba/safebrowsing/internal/safebrowsing_proto"
 )
 
 const (
